@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test project to learn React",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "author": "Swagata Nath",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swag13/react-git-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/swag13/react-git-test/issues"
+  },
+  "homepage": "https://github.com/swag13/react-git-test#readme"
+}
